@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "483481435828",
+    "firebase_url": "https://parentsapp-7e458.firebaseio.com",
+    "project_id": "parentsapp-7e458",
+    "storage_bucket": "parentsapp-7e458.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483481435828:android:c831ea6a832ada85b061e1",
+        "android_client_info": {
+          "package_name": "com.parentsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483481435828-h099k993mtvc8eo406ptl79oqfpfj5qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvcVVwP12ZPvBlBQ7OlEaMfUWcTUIDKWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483481435828-h099k993mtvc8eo406ptl79oqfpfj5qk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
